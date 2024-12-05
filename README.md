@@ -96,7 +96,9 @@ Before diving into the setup, it's crucial to understand the role of each compon
   
 2. **Run the Installer:**  
    - Open the downloaded package and follow the on-screen instructions to install BlackHole 2ch on your Mac. You might need to grant necessary permissions during installation.  
-  
+
+_You can also just do `brew install blackhole-2ch`_
+
 3. **Verify Installation:**  
    - Open **Audio MIDI Setup** (found in **Applications > Utilities**).  
    - Ensure that **BlackHole 2ch** appears in the list of audio devices under both **Input** and **Output** sections.  
