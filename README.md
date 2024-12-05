@@ -173,16 +173,12 @@ Whether you're conducting interviews, recording podcasts, streaming, or developi
 
 #### **Appendix: Troubleshooting and Resources**
 
-1. **Troubleshooting Tips**  
+**Troubleshooting Tips**  
    - **Audio Sync Issues**: If audio from the system and microphone becomes unsynchronized, double-check that Drift Correction is enabled in your Multi-Output Device.  
    - **No Sound in Recording**: Ensure your recording software is configured to use the Aggregate Device as the input source.  
    - **BlackHole Not Appearing**: Restart your Mac and verify BlackHole is installed correctly in the Audio MIDI Setup tool.  
 
-2. **Recommended Tools**  
-   - **Audio Hijack (Paid Alternative)**: Rogue Amoeba’s Audio Hijack offers advanced audio routing features for users seeking a polished, professional-grade solution.  
-   - **GarageBand**: For users already familiar with Apple’s ecosystem, GarageBand supports audio input selection, which can leverage Aggregate Devices for multi-source recording.
-
-3. **Further Reading**  
+**Further Reading**  
    - [BlackHole GitHub Documentation](https://github.com/ExistentialAudio/BlackHole)  
    - [Apple's Audio MIDI Setup User Guide](https://support.apple.com/guide/audio-midi-setup)  
    - [Deepgram’s Python SDK Documentation](https://github.com/deepgram/py-sdk)
