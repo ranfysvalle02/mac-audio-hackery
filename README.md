@@ -28,6 +28,8 @@ The macOS audio architecture is designed with simplicity and resource optimizati
 
 Moreover, the macOS security framework imposes strict permissions on audio recording to protect user privacy. Allowing multiple audio streams to be captured without explicit user consent could lead to potential misuse, such as unauthorized recording of system sounds or other sensitive audio data.
 
+![](https://nordvpn.com/wp-content/uploads/Blog-featured-is-my-phone-listening-to-me-1200x628-1.png)
+
 #### **Legal and Information Security Implications**
 
 Recording system audio and microphone input simultaneously introduces privacy and legal considerations, particularly when the recordings involve other people or sensitive content. While macOS’s restrictions partially address these concerns, bypassing them through third-party tools necessitates heightened awareness and responsibility.
