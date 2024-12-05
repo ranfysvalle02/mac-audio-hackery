@@ -4,6 +4,8 @@
 
 # Why Can't My Mac Just Listen to Itself? 
 
+![](https://media.licdn.com/dms/image/v2/C4D12AQF1b012ufBTuQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520123016295?e=2147483647&v=beta&t=SO-VAEw8E3EyzYYreR2IVxuVTgr4oQ-B7P9swVOUW1A)
+
 Recording audio on a Mac has never been more straightforward, thanks to the plethora of high-quality built-in and third-party tools available. However, one persistent challenge remains for many users: capturing audio from both the microphone and the system speakers simultaneously. Whether you're a content creator, podcaster, or remote worker, this limitation can hinder your ability to produce comprehensive and professional-grade recordings.
 
 By integrating BlackHole 2ch with Multi-Output and Aggregate Devices, you can overcome macOS's native limitations to capture both microphone and system audio simultaneously. 
