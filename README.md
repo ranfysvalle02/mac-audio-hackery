@@ -59,6 +59,8 @@ Recording system audio and microphone input simultaneously introduces privacy an
 
 ---
 
+![](https://www.notta.ai/pictures/how-to-record-audio-on-mac-fixed-theme.jpeg)
+
 # Capturing Both Microphone and System Audio on Mac
   
 Recording both microphone input and system audio simultaneously on a Mac can be challenging due to macOS's native limitations. However, by leveraging **BlackHole 2ch**, creating a **Multi-Output Device**, and configuring a **Custom Aggregate Device**, you can effectively bypass these restrictions. This setup is particularly useful when working with audio processing scripts, such as the Python code provided below, which utilizes **PyAudio** to record and transcribe audio using Deepgram's API.  
