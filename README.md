@@ -1,5 +1,9 @@
 # mac-audio-hackery
 
+__⚠️ WARNING ⚠️__
+
+Simultaneous recording of system audio and microphone input introduces privacy and legal considerations. Always inform participants if their audio is being recorded and secure explicit consent where required. Be aware of sensitive content and ensure recordings containing proprietary or sensitive data are stored securely.
+
 ---
 
 # Why Can't My Mac Just Listen to Itself? 
